@@ -1,5 +1,5 @@
 
-# BA -- Cool stuff!   Thanks for the tutorial!
+# BA, 01/14/2015 -- Cool stuff!   Thanks for the tutorial!
 
 from arithmetic import *
 
